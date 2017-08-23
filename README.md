@@ -4,6 +4,8 @@
 
 *Git
 
+*GitLab
+
 *Subversion
 
 *CVS
